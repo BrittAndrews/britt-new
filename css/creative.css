@@ -9,7 +9,7 @@ body {
   width: 100%;
 }
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 hr {
   border-color: #F05F40;
@@ -43,7 +43,7 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #F05F40;
+  background-color: #c0392b;
 }
 .bg-dark {
   background-color: #222222;
@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('http://apollopd.com/wp-content/uploads/photo-1470790376778-a9fbc86d70e2.jpg');
   text-align: center;
   color: white;
 }
@@ -350,7 +350,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #ee4b28;
+  background-color: #16a085;
   border-color: #ed431f;
 }
 .btn-primary:active,
